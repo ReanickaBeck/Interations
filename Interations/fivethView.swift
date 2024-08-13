@@ -11,7 +11,10 @@ struct fivethView: View {
     var body: some View {
         Text("Thank you, for participating! <3")
     }
-}
+    
+    
+    }
+
 
 #Preview {
     fivethView()
